@@ -15,7 +15,7 @@
 
 <br>
 
-![Captura de tela 2024-08-23 100605](https://github.com/user-attachments/assets/6ec3b19c-892b-4a91-87f0-eb6283a49662)
+![print-projeto-modal](https://github.com/user-attachments/assets/6ec3b19c-892b-4a91-87f0-eb6283a49662)
 
 
 ## 💻  Projeto
