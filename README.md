@@ -91,4 +91,4 @@ Dar uma⭐️se esse projeto te ajudou ou inspirou!
 
 ## :memo:  Licença
 
-Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/projeto-papelaria/blob/main/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/projeto-modal/blob/main/LICENSE">LICENSE</a> para mais detalhes.
